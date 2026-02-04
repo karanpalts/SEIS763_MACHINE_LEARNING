@@ -1,7 +1,5 @@
-# SEIS763_MACHINE_LEARNING
-machine learning files
+# SEIS763_MACHINE_LEARNING 2/3/26
 
-SEIS 763 Machine Learning
 
 Software Engineering and Data Science
 SEIS 763: Machine Learning
